@@ -5,4 +5,10 @@ a
 fds
 af
 dsa
-
+https://data-flair.training/blogs/machine-learning-algorithms-in-python/
+https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
+[22:52, 3/20/2019] comalkumar: https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+[22:52, 3/20/2019] comalkumar: https://www.tutorialspoint.com/python/python_data_science.htm
+[22:53, 3/20/2019] comalkumar: https://github.com/komlkumar/PythonPractice
+[23:00, 3/20/2019] comalkumar: https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755
